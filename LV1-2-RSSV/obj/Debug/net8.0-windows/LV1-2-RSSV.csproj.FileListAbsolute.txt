@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\LV1-2-RSSV\bin\Debug\net8.0-windows\LV1-2-RSSV.exe
+C:\Users\student\source\repos\LV1-2-RSSV\bin\Debug\net8.0-windows\LV1-2-RSSV.deps.json
+C:\Users\student\source\repos\LV1-2-RSSV\bin\Debug\net8.0-windows\LV1-2-RSSV.runtimeconfig.json
+C:\Users\student\source\repos\LV1-2-RSSV\bin\Debug\net8.0-windows\LV1-2-RSSV.dll
+C:\Users\student\source\repos\LV1-2-RSSV\bin\Debug\net8.0-windows\LV1-2-RSSV.pdb
+C:\Users\student\source\repos\LV1-2-RSSV\obj\Debug\net8.0-windows\LV1_2_RSSV.Form1.resources
+C:\Users\student\source\repos\LV1-2-RSSV\obj\Debug\net8.0-windows\LV1-2-RSSV.csproj.GenerateResource.cache
+C:\Users\student\source\repos\LV1-2-RSSV\obj\Debug\net8.0-windows\LV1-2-RSSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\LV1-2-RSSV\obj\Debug\net8.0-windows\LV1-2-RSSV.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\LV1-2-RSSV\obj\Debug\net8.0-windows\LV1-2-RSSV.AssemblyInfo.cs
+C:\Users\student\source\repos\LV1-2-RSSV\obj\Debug\net8.0-windows\LV1-2-RSSV.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\LV1-2-RSSV\obj\Debug\net8.0-windows\LV1-2-RSSV.dll
+C:\Users\student\source\repos\LV1-2-RSSV\obj\Debug\net8.0-windows\refint\LV1-2-RSSV.dll
+C:\Users\student\source\repos\LV1-2-RSSV\obj\Debug\net8.0-windows\LV1-2-RSSV.pdb
+C:\Users\student\source\repos\LV1-2-RSSV\obj\Debug\net8.0-windows\LV1-2-RSSV.genruntimeconfig.cache
+C:\Users\student\source\repos\LV1-2-RSSV\obj\Debug\net8.0-windows\ref\LV1-2-RSSV.dll

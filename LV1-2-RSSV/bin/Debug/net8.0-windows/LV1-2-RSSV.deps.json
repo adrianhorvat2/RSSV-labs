@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LV1-2-RSSV/1.0.0": {
+        "runtime": {
+          "LV1-2-RSSV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LV1-2-RSSV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
